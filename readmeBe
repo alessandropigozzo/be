@@ -1,0 +1,9 @@
+Buonpomeriggio,
+questi sono dei progetti lato be sviluppati in Java utilizzando come framework Spring boot
+
+Jpa - Hibernate -> è un progetto in cui si utilizza hibernate per andare a prendere dei dati da db Mysql
+Thread - esercitazione sui Thread per generare più processi in contemporanea
+Spring Keycloak - > utilizzato in spring per l'utilizzo di keycloak per la gestione dei ruoli da parte degli utenti
+
+NB : gestire la parte di collegamento al db in quanto ho diversa da quello che ho io in utilizzo localmente
+
